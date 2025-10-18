@@ -1,10 +1,10 @@
 Character [Shoumik]
-Player will run forward automatically on game start and running speed will increase periodically ✅\n
-Player can switch between three lanes of the track ✅\n
-Players will have 10 healths. Colliding with obstacles will lose 1 health. Getting an extra life boost will gain 1 health. ✅\n
-Character color change in interaction and collision. The player's head will flash RED on collision, and GREEN when collecting coins. ✅\n
-Track [Shoumik]\n
-Procedural track chunk system. The track has three lanes. Players can switch between track lanes by pressing “A-left” or “D-right”. ✅\n
+Player will run forward automatically on game start and running speed will increase periodically ✅
+Player can switch between three lanes of the track ✅
+Players will have 10 healths. Colliding with obstacles will lose 1 health. Getting an extra life boost will gain 1 health. ✅
+Character color change in interaction and collision. The player's head will flash RED on collision, and GREEN when collecting coins. ✅
+Track [Shoumik]
+Procedural track chunk system. The track has three lanes. Players can switch between track lanes by pressing “A-left” or “D-right”. ✅
 Camera [Shoumik]
 Camera will follow player from a fixed distance and angle with adjustable FOV and distance ✅
 Environment  [Rafi]
